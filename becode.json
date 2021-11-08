@@ -1,0 +1,54 @@
+{
+    "rules": [
+     { 
+     "value": "1",
+     "nom": "Ponctualité",
+     "description": "Toujours arriver à l'heure, respecter les horaires."
+     },
+     {
+     "value": "2",
+     "nom": "Organisation dans le travail",
+     "description": "S'organiser pour gérer ses projets et respecter les deadlines."
+     },
+     {
+     "value": "3",
+     "nom": "Être débrouillard",
+     "description": "Prendre des initiatives, développer son autonomie."
+     },
+     {
+     "value": "4",
+     "nom": "Faire de son mieux (excellence)",
+     "description": "You can't always be THE best but you can always do YOUR best."
+     },
+     {
+     "value": "5",
+     "nom": "Respect et tolérance",
+     "description": "On respecte son voisin, on l'aime comme il est."
+     },
+     {
+     "value": "6",
+     "nom": "Attitude positive, constructive, non violente",
+     "description": "Dialogue pour aller de l'avant, mise en valeur de ce qui est bien, conseils pour faire mieux."
+     },
+     {
+     "value": "7",
+     "nom": "Être à l'écoute",
+     "description": "Écouter les autres, prendre leurs remarques en considération, comprendre les besoin, les envies, les frustrations."
+     },
+     {
+     "value": "8",
+     "nom": "Attitude positive et communication orientée solution",
+     "description": "Dialogue pour aller de l'avant, mise en valeur de ce qui est bien, conseils pour faire mieux."
+     },
+     {
+     "value": "9",
+     "nom": "S'investir, participer",
+     "description": "Tout le monde participe à BeCode et aux initiatives à impact social entreprises. Pour le groupe mais également pour soi-même."
+     },
+     {
+    "value": "10",
+    "nom": "Esprit d'équipe",
+    "description": "On travaille tous ensemble, on se serre les coudes. On réussit ensemble ou on échoue ensemble."
+     }
+]
+   }
