@@ -1,4 +1,7 @@
 const main= document.querySelector('main')
+const button= document.querySelector('button')
+
+button.onclick = () => {
 fetch('becode.json')
 
 .then(response => response.json())
@@ -27,3 +30,4 @@ fetch('becode.json')
 .catch(error => {
   console.log('There was an error!', error)
 })
+}
